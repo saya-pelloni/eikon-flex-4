@@ -1,7 +1,9 @@
 /* 1. exercice-flex */
 
 /* 2. exercice-flex-2 */
-
+.exercice-flex-2 .container{
+  background: blue;
+}
 /*3. exercice-align-content-1 */
 
 /*4. exercice-align-content-2 */
