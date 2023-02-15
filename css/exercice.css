@@ -10,6 +10,13 @@
 /* 2. exercice-flex-2 */
 .exercice-flex-2 .container{
   background: blue;
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  
+}
+.element-blue {
+
 }
 /*3. exercice-align-content-1 */
 
