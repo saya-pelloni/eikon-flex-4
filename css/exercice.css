@@ -1,5 +1,12 @@
 /* 1. exercice-flex */
-
+.exercice-flex .container {
+  background: blue;
+  display: flex;
+  justify-content: flex-start;
+}
+.element-blue {
+  flex-grow: 2;
+}
 /* 2. exercice-flex-2 */
 .exercice-flex-2 .container{
   background: blue;
